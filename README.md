@@ -1,24 +1,6 @@
-# README
+# CRUD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## READ: #index (collection of resources) && #show (one resource)
+# CREATE: #new (get the form) && #create (actually create the resource)
+# UPDATE: #edit (get the form) && #update (update in the DB)
+# DELETE: #destroy
